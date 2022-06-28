@@ -1,0 +1,4 @@
+#!/bin/bash
+# Learning shell scripting
+
+echo "Hello, World"
